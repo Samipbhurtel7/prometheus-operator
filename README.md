@@ -44,7 +44,7 @@ metrics endpoints, and example alerting rules for notification of potential issu
 
 The [prometheus-community/kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack)
 helm chart provides a similar feature set to kube-prometheus. This chart is maintained by the Prometheus community.
-For more information, please see the [chart's readme](https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack#kube-prometheus-stack)
+For more information, please see the [chart's readme](https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack#kube-prometheus-stack).
 
 ## Prerequisites
 
